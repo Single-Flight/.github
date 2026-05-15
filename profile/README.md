@@ -104,9 +104,9 @@ SingleFlight는 동일한 요청을 하나로 병합하여 불필요한 중복 �
 <div align = "center">
 
 
-| <img src="https://avatars.githubusercontent.com/u/88239689?v=4" width=150> |
-| :---------------: |
-| [KimYongBeom, 김용범](https://github.com/Bumnote) |
+| <img src="https://avatars.githubusercontent.com/u/88239689?v=4" width=150> | <img src="https://avatars.githubusercontent.com/u/67894738?v=4" width=150>|
+| :---------------: | :---------------: |
+| [KimYongBeom, 김용범](https://github.com/Bumnote) | [ParkEuiKyun, 박의균](https://github.com/pug9483)|
 
 </div>
 
