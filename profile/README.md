@@ -21,8 +21,8 @@
 
 SingleFlight Organization은 목적에 따라 3개의 전문 연구 공간(Repository)으로 나누어 운영됩니다.
 
-* **[🎙️ Interview](https://github.com/Single-flight/Interview)**
-  * 기술 관련 책 소개, 유튜브 영상이나 블로그 글을 아카이빙하고, 깊이 있는 후기와 인사이트를 공유하며 소통하는 공간입니다.
+* **[🎙️ book](https://github.com/Single-flight/book)**
+  * 기술 관련 책 소개와 깊이 있는 후기, 인사이트를 공유하며 소통하는 공간입니다.
 * **[🛠️ Project-Lab](https://github.com/Single-flight/Project-Lab)**
   * 이론에만 그치지 않고, 실제 작동하는 코드로 무엇이든 직접 구현하며 치열하게 트러블슈팅하는 공간입니다.
 * **[💻 CS (Computer Science)](https://github.com/Single-flight/CS)**
