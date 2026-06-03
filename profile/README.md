@@ -7,6 +7,8 @@
 
 ## About "SingleFlight"
 
+![SingleFlight logo](./img/sf.png)
+
 **SingleFlight**는 캐시 스탬피드(Cache Stampede)를 방지하기 위해 동일한 요청을 하나로 병합하는 백엔드 패턴에서 영감을 받았습니다.
 
 단순히 QnA 방식의 딱딱한 스터디를 넘어, **한 사람이 학습한 지식을 효율적으로 공유(Merging)**하고, 하나의 답변에 대해 꼬리 질문을 던지며 **함께 성장하는 중복 없는(De-duplication) 러닝 문화**를 지향합니다.
