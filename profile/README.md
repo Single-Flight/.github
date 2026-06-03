@@ -7,7 +7,11 @@
 
 ## About "SingleFlight"
 
-![SingleFlight logo](./img/sf.png)
+<div align="center">
+
+  <img src="./img/sf.png" alt="SingleFlight" width="300"/>
+
+</div>
 
 **SingleFlight**는 캐시 스탬피드(Cache Stampede)를 방지하기 위해 동일한 요청을 하나로 병합하는 백엔드 패턴에서 영감을 받았습니다.
 
