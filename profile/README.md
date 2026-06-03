@@ -15,19 +15,19 @@
 
 **SingleFlight**는 캐시 스탬피드(Cache Stampede)를 방지하기 위해 동일한 요청을 하나로 병합하는 백엔드 패턴에서 영감을 받았습니다.
 
-단순히 QnA 방식의 딱딱한 스터디를 넘어, **한 사람이 학습한 지식을 효율적으로 공유(Merging)**하고, 하나의 답변에 대해 꼬리 질문을 던지며 **함께 성장하는 중복 없는(De-duplication) 러닝 문화**를 지향합니다.
+단순히 QnA 방식의 딱딱한 스터디를 넘어, **한 사람이 학습한 지식을 효율적으로 공유**하고, 하나의 답변에 대해 꼬리 질문을 던지며 **함께 성장하는 중복 없는 러닝 문화**를 지향합니다.
 
 ## Introduce
 
-SingleFlight Organization은 목적에 따라 3개의 전문 연구 공간(Repository)으로 나누어 운영됩니다.
+SingleFlight Organization은 목적에 따라 3개의 전문 연구 공간으로 나누어 운영됩니다.
 
-* **[🎙️ book](https://github.com/Single-flight/book)**
+* **[📔 Book](https://github.com/Single-flight/book)**
   * 기술 관련 책 소개와 깊이 있는 후기, 인사이트를 공유하며 소통하는 공간입니다.
+* **[💻 CS](https://github.com/Single-flight/CS)**
+  * 운영체제, 네트워크, 데이터베이스 등 기초이자 핵심이 되는 다양한 컴퓨팅 기술을 깊게 탐구하는 공간입니다.
 * **[🛠️ Project-Lab](https://github.com/Single-flight/Project-Lab)**
   * 이론에만 그치지 않고, 실제 작동하는 코드로 무엇이든 직접 구현하며 치열하게 트러블슈팅하는 공간입니다.
-* **[💻 CS (Computer Science)](https://github.com/Single-flight/CS)**
-  * 운영체제, 네트워크, 데이터베이스 등 기초이자 핵심이 되는 다양한 컴퓨팅 기술을 깊게 탐구하는 공간입니다.
-
+ 
 ## How We Study
 
 ### 1. 발표 기반 학습
@@ -56,10 +56,10 @@ SingleFlight Organization은 목적에 따라 3개의 전문 연구 공간(Repos
 
 <div align="center">
 
-| **KimYongBeom** | **ParkEuiKyun** |
-| :---: | :---: |
-| <img src="https://avatars.githubusercontent.com/u/88239689?v=4" width="130" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/67894738?v=4" width="130" style="border-radius: 50%;"> |
-| [@Bumnote](https://github.com/Bumnote) | [@pug9483](https://github.com/pug9483) |
+| **KimYongBeom** | **SoTaeHo** | **ParkEuiKyun** | **AnSungSoo** |
+| :---: | :---: | :---: | :---:|
+| <img src="https://avatars.githubusercontent.com/u/88239689?v=4" width="130" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/91146046?v=4" width="130" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/67894738?v=4" width="130" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/92793904?v=4" width="130" style="border-radius: 50%;"> |
+| [@Bumnote](https://github.com/Bumnote) | [@SoTaeHo](https://github.com/SoTaeHo) | [@pug9483](https://github.com/pug9483) | [@MirrorPI](https://github.com/MirrorPI) |
 
 </div>
 
